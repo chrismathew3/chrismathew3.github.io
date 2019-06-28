@@ -1,0 +1,45 @@
+{
+  "aboutParagraph": "Software Engineer trying to specialize in the fields of Artificial Intelligence, Big Data, Computer Vision and more.  Currently working for SAP as part of the Silicon Velley Next Talent Program.  Fitness and nutrition enthusiasts, biliophile, dog lover and owner, and technologist",
+
+  "_READcommentForBLOGS" : [
+    {
+      "_blogId": "000",
+      "_blogTitle": "Title",
+      "_blogDate": "DD Month YYYY",
+      "_blogSummary" : "Summary",
+      "_blogImage" : "assets/blogImgs/imageforBlog.fileType",
+      "_blogEssay": "READ BELLOW FOR INSTRUCTIONS ON MANIPULATING PARAGRAPHS!"
+    },
+    {
+      "_forLineBreaks" : "use \n",
+      "_forQuotationMarks" : "use \"for quotes"
+    },
+    {
+      "_step1" : "copy only the first object; from blogId to blogEssay",
+      "_step2" : "paste at the bottom of the blogs[] bellow",
+      "_step3" : "delete the underscore ( _ ) from each tag after pasting and make sure they are within curly braces {}",
+      "_step4" : "edit it accordingly",
+      "_note" : "when dowloading images, save them on the assets >> blogImgs folder. Try to save small files. 2Mb max of image size.",
+      "_note2" : "when copying and pasting objects, paste at the bottom of the array. When shown on the page, the filter shows them in reverse order.",
+      "_note3" : "refer to configData.ts for what type of variables they are"
+    },
+    {
+      "_blogId": "number",
+      "_blogTitle": "string",
+      "_blogDate": "DD Month YYYY",
+      "_blogSummary" : "string",
+      "_blogImage" : "projectPath",
+      "_blogEssay": "string"
+    }
+  ],
+  "blogs" : [
+    {
+      "blogId": "1",
+      "blogTitle": "The Pursuit of the American Dream",
+      "blogDate": "26 June 2019",
+      "blogSummary": "A detailed post about how and why I chose to move from New Jersey to California, the Golden State.  In the process I describe my journey through college and layout my plans for the future.",
+      "blogImage": "assets/blogImgs/California.jpg",
+      "blogEssay": "Silicon Valley was always my dream since I was a little kid.  I had grown up aspiring to be like one of the greats. An entrepreneur who would change the world for the better with some mind-shattering idea. Suffice to say, its 2019 and while I may have had some great ideas in the past, I still have yet to become the entrepreneur I had hoped I would become.  But that's okay, for now I am on the path for growth. To be successful in life, I was always told to do well in school, get a degree and get a well-paying job.  My belief in this in recent years has faltered heavily.  Partly due to my inner resistance to follow the social norm, but mostly due to my intense research that has shown me the truth.  Some of the most successful entrepreneurs, leaders, and businessmen didn't even go to college, let alone do well in school.  While that may not be the case for all people whom you'd define as, ‘Successful', there most definitely is a subset of the world's greatest people who follow under the principle that we should not be judged for the paths we follow but for the actions we take.  At the end of the day, my dream has not changed.  The path to achieving my dream may have, but that is part of the process.  Adaptation when exposed to the unknown is not only normal but expected in the journey of life.  So Why Silicon Valley?  Well imagine a place where some of the world’s smartest, most talented people have all come together to solve the world’s hardest problems.  That place would arguably be Silicon Valley.  So it only makes sense that if given the opportunity to work in an area where intelligence and creativity is literally in the air, I would seize it in a heartbeat.  So in preparing for my journey, I got a car (Jeep Wrangler Unlimited Rubicon) and packed it with my stuff and drove to Chicago.  From there I shipped the car and took a flight to San Jose where I spent the next few days looking for an apartment while staying at the local Wyndham Hotel.  I signed for an in-law unit in Menlo Park, and have been living with relatives until I can move in.  So far California has been nothing short of a dream come true.  I have met people who work for Google, Facebook, and Apple., people who own small businesses, startups, and run multi-billion dollar organizations, and even homeless people struggling in this day and age.  With that I can honestly say, I have been inspired by people from both ends of the spectrum to try my best to become my best.  To not fall short of the goals I had set out for myself since I was a kid.  While this post was about articulating my reasons for going to California it also serves as a reminder to myself that I must hold myself to a higher standard to truly reach my full potential.  The saying the sky’s the limit is in fact the motto I plan on living by.  With that I am signing off.  -Mathews"
+    }
+  ]
+}
